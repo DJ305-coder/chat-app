@@ -2,10 +2,10 @@
   "name": "chatapp",
   "version": "1.0.0",
   "description": "This is chat application",
-  "main": "index.html",
+  "main": "server.js",
   "scripts": {
     "dev": "nodemon server",
-    "start": "npm start"
+    "start": "node server"
   },
   "author": "Datta Jadhav",
   "license": "ISC",
