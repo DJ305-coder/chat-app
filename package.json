@@ -2,7 +2,7 @@
   "name": "chatapp",
   "version": "1.0.0",
   "description": "This is chat application",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "dev": "nodemon server",
     "start": "npm start"
